@@ -4,3 +4,6 @@ plugins:
 
 title: Ralph Services
 description: Spaniel Approved Pet Supplies
+
+github:
+  is_project_page: false
