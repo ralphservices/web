@@ -15,9 +15,9 @@ My name is Ralph, I am...
 
 I employ 2 Oomans (2 Paws) to do the woof work, Matt & Amanda.
 
-Being a spaniel, i live life at full speed and quite often the things i need don't last evry long, harness', leads, etc so my Ooomans have spent a long time finding (and many monies), testing and approving my accessories.
+Being a spaniel, I live life at full speed and quite often the things i need don't last very long, harness', leads, etc so my Ooomans have spent a long time finding (and many monies), testing and approving my accessories.
 
-Craft Pets @ Ralp Services aim's to bring you only Ralph-Approved hardware, tested at speed in mud and water.
+Craft Pets @ Ralp Services aim's to bring you only Ralph-Approved hardware, tested at speed in mud and water (and any other fun things i find to jump in)
 
 We are NOT an online seller, we sell the products we believe in at Craft Markets & Pop-Up-Stalls.
 
