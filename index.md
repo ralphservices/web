@@ -3,7 +3,9 @@ layout: default
 title: Ralph Services
 ---
 
- # Ralph Services
+# Ralph Services
+
+My Ooman's are doing what I have ordered them to do and are starting up a business selling the products I use and are of sufficient quality for my superior doggie needs
 
 # Ralph Of Ralph Services
 My name is Ralph, I am...
