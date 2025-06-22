@@ -2,6 +2,7 @@
 layout: default
 title: Ralph Services
 ---
+<link rel="stylesheet" href="/assets/css/style.css">
 
 My Ooman's are doing what I have ordered them to do and are starting up a business selling the products I use and are of sufficient quality for my superior doggie needs
 
