@@ -20,7 +20,7 @@ My name is Ralph, I am...
  ... And this is my by business 
 
 ---
-### My Ooman's 
+## My Ooman's 
 
 I employ 2 Oomans to do the woof work, Matt & Amanda.
 
@@ -31,12 +31,12 @@ Craft Pets @ Ralp Services aim's to bring you only Ralph-Approved hardware, test
 We are NOT an online seller, we sell the products we believe in at Craft Markets & Pop-Up-Stalls.
 
 ---
-#### Find Us At
+## Find Us At
 
 You can find the events we are attending here:
  🐕 Craft Market @ Temple Newsam Leeds (Pending Confirmation)
 
-##### Contact Us
+## Contact Us
 
 **Ralph**  
 🐾 Best way to contact me is to stand on all 4 paws and WooF!  
