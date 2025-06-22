@@ -7,7 +7,7 @@ title: Ralph Services
 
 My Ooman's are doing what I have ordered them to do and are starting up a business selling the products I use and are of sufficient quality for my superior doggie needs
 
-# Ralph Of Ralph Services
+## Ralph Of Ralph Services
 My name is Ralph, I am...
 
  - CEO - Chief Eating Officer
@@ -20,7 +20,7 @@ My name is Ralph, I am...
 ... And this is my by business 
 
 ---
-# My Ooman's 
+### My Ooman's 
 
 I employ 2 Oomans (2 Paws) to do the woof work, Matt & Amanda.
 
@@ -30,7 +30,7 @@ Craft Pets @ Ralp Services aim's to bring you only Ralph-Approved hardware, test
 
 We are NOT an online seller, we sell the products we believe in at Craft Markets & Pop-Up-Stalls.
 
-# Find Us At
+#### Find Us At
 
 You can find the events we are attending here:
  - Test Event
