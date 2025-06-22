@@ -11,7 +11,7 @@ My Ooman's are doing what I have ordered them to do and are starting up a busine
 
 My name is Ralph, I am...
 
-:paw_prints: CEO - Chief Eating Officer
+🐾 CEO - Chief Eating Officer
 - CCO - Chief Chewing Officer
 - CPO - Chief Peeing Officer
 - CFO - Chief Finding Officer
@@ -39,12 +39,12 @@ You can find the events we are attending here:
 ##### Contact Us
 
 **Ralph**
- :paw_prints: Best way to contact me is to stand on all 4 paws and WooF!
- :paw_prints: Send woofs @ woof@ralpservices.com
+ 🐾 Best way to contact me is to stand on all 4 paws and WooF!
+ 🐾 Send woofs @ woof@ralpservices.com
 
 **Praise**
- :paw_prints: ralphisagoodboy@ralphservices.com
+ 🐾 ralphisagoodboy@ralphservices.com
 
 **Telling Off**
- :paw_prints: Oomansarestupid@ralphservices.com
+ 🐾 Oomansarestupid@ralphservices.com
 
