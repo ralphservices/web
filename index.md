@@ -36,3 +36,19 @@ We are NOT an online seller, we sell the products we believe in at Craft Markets
 You can find the events we are attending here:
  - Test Event
 
+##### Contact Us
+
+*Ralph*
+
+ - Best way to contact me is to stand on all 4 paws and ==Woof==
+
+ - Send your woofs to woof@ralpservices.com
+
+*Praise*
+
+ralphisagoodboy@ralphservices.com
+
+*Telling Off*
+
+ - Oomansarestupid@ralphservices.com
+
