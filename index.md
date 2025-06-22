@@ -6,24 +6,18 @@ title: Ralph Services
  
 My Ooman's are doing what I have ordered them to do and are starting up a business selling the products I use and are of sufficient quality for my superior doggie needs
 
-
+---
 ## Ralph Of Ralph Services
 
-<div style="text-align: center;">
 My name is Ralph, I am...
-</div>
 
-<div style="text-align: center;">
-  <ul>
-    <li>CEO - Chief Eating Officer</li>
-    <li>CCO - Chief Chewing Officer</li>
-    <li>CPO - Chief Peeing Officer</li>
-    <li>CFO - Chief Finding Officer</li>
-    <li>VGB - A Very Good Boy</li>
-  </ul>
+- CEO - Chief Eating Officer
+- CCO - Chief Chewing Officer
+- CPO - Chief Peeing Officer
+- CFO - Chief Finding Officer
+- VGB - A Very Good Boy
+
  ... And this is my by business 
-</div>
-
 
 ---
 ### My Ooman's 
@@ -36,6 +30,7 @@ Craft Pets @ Ralp Services aim's to bring you only Ralph-Approved hardware, test
 
 We are NOT an online seller, we sell the products we believe in at Craft Markets & Pop-Up-Stalls.
 
+---
 #### Find Us At
 
 You can find the events we are attending here:
