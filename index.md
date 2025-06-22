@@ -34,7 +34,7 @@ We are NOT an online seller, we sell the products we believe in at Craft Markets
 #### Find Us At
 
 You can find the events we are attending here:
- - Test Event
+ 🐕 Craft Market @ Temple Newsam Leeds (Pending Confirmation)
 
 ##### Contact Us
 
