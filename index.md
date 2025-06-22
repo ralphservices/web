@@ -22,7 +22,7 @@ My name is Ralph, I am...
 ---
 ### My Ooman's 
 
-I employ 2 Oomans (2 Paws) to do the woof work, Matt & Amanda.
+I employ 2 Oomans to do the woof work, Matt & Amanda.
 
 Being a spaniel, I live life at full speed and quite often the things i need don't last very long, harness', leads, etc so my Ooomans have spent a long time finding (and many monies), testing and approving my accessories.
 
@@ -38,13 +38,13 @@ You can find the events we are attending here:
 
 ##### Contact Us
 
-**Ralph**
+**Ralph**  
 🐾 Best way to contact me is to stand on all 4 paws and WooF!  
 🐾 Send woofs @ woof@ralpservices.com  
 
-**Praise**
+**Praise**  
 🐾 ralphisagoodboy@ralphservices.com  
 
-**Telling Off**
+**Telling Off**  
 🐾 Oomansarestupid@ralphservices.com  
 
