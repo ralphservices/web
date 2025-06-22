@@ -4,9 +4,15 @@ title: Ralph Services
 ---
 <link rel="stylesheet" href="/assets/css/style.css">
 
+<div style="text-align: center;">
+ 
 My Ooman's are doing what I have ordered them to do and are starting up a business selling the products I use and are of sufficient quality for my superior doggie needs
 
+</div>
+
 ## Ralph Of Ralph Services
+
+<div style="text-align: center;">
 My name is Ralph, I am...
 
  - CEO - Chief Eating Officer
@@ -15,6 +21,7 @@ My name is Ralph, I am...
  - CFO - Chief Finding Office
  - A Very Good Boy
 
+</div>
 
 ... And this is my by business 
 
