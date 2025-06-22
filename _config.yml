@@ -5,5 +5,5 @@ description: Spaniel Approved Pet Supplies
 
 github:
   is_project_page: false
-# include:
- # - assets/css/style.css
+include:
+ - assets/css/style.css
