@@ -14,16 +14,19 @@ My Ooman's are doing what I have ordered them to do and are starting up a busine
 
 <div style="text-align: center;">
 My name is Ralph, I am...
-
- - CEO - Chief Eating Officer
- - CCO - Chief Chewing Officer
- - CPO - Chief Peeing Officer
- - CFO - Chief Finding Office
- - A Very Good Boy
-
 </div>
 
-... And this is my by business 
+<div style="text-align: center;">
+  <ul>
+    <li>CEO - Chief Eating Officer</li>
+    <li>CCO - Chief Chewing Officer</li>
+    <li>CPO - Chief Peeing Officer</li>
+    <li>CFO - Chief Finding Officer</li>
+    <li>VGB - A Very Good Boy</li>
+  </ul>
+ ... And this is my by business 
+</div>
+
 
 ---
 ### My Ooman's 
