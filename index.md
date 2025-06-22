@@ -1,9 +1,4 @@
----
-layout: default
-title: Ralph Services
----
- 
-# Ralph Services
+ # Ralph Services
 
 # Ralph Of Ralph Services
 My name is Ralph, I am...
