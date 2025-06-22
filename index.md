@@ -38,17 +38,13 @@ You can find the events we are attending here:
 
 ##### Contact Us
 
-*Ralph*
-
+**Ralph**
  - Best way to contact me is to stand on all 4 paws and ==Woof==
-
  - Send your woofs to woof@ralpservices.com
 
-*Praise*
+**Praise**
+ - ralphisagoodboy@ralphservices.com
 
-ralphisagoodboy@ralphservices.com
-
-*Telling Off*
-
+**Telling Off**
  - Oomansarestupid@ralphservices.com
 
